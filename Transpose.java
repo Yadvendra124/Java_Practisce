@@ -12,7 +12,7 @@ public class Transpose{
                 matrix[i][j]=sc.nextInt();
             }
         }
-        System.out.println("The Transpose of matrix : ");
+        System.out.println("The Transpose of matrix is  : ");
         for(int j=0;j<column;j++){
             for(int i=0;i<row;i++){
               System.out.print(matrix[i][j]+" ");
