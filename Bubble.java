@@ -14,6 +14,7 @@ public class Bubble{
             arr[i]=sc.nextInt();
 
         }
+        //time complexity O(N^2)
           
         //Bubble sort
         for(int i=0;i<arr.length-1;i++){
